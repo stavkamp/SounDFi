@@ -34,6 +34,7 @@ ex:
     176 75346 480743.303  4439096.477  40.5489  1.296 
 
 #Program parameters
+
   Sample size: Controls the sample size for the regression. It should 
     be a positive value and greater than the selected polynomial degree 
     plus one.
@@ -53,6 +54,7 @@ ex:
     The closer to 100% the stricter the filter.  
    
  #Program outputs
+ 
    xx-Summary.txt
    xx-LessThanMinDepth.txt
    xx-Suspicious.txt
