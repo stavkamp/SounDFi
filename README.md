@@ -9,7 +9,7 @@ SounDFi - Filter and detect erroneous data from a single echo-sounder
   
     http://users.auth.gr/nezos/#Software
     
-   or from the github.com
+   or from github.com
     
     https://github.com/stavkamp/SounDFi/
     
