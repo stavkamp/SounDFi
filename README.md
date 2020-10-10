@@ -5,9 +5,11 @@ SounDFi - Filter and detect erroneous data from a single echo-sounder
 
 #Downloading the software
   You can download the software either at:
+  
+  
     http://users.auth.gr/nezos/#Software
     
-    or from the github.com
+   or from the github.com
     
     https://github.com/stavkamp/SounDFi/
     
@@ -21,9 +23,14 @@ SounDFi - Filter and detect erroneous data from a single echo-sounder
   .NET Framework:         v4.6.1 or newer
 
 #Input Data Format
-  #6 collumns, no headers, tab-delimited, depth values positive
-  Identification Time Easting Northing EllipsoidalHeight Depth
-ex:176 75346 480743.303  4439096.477  40.5489  1.296 
+
+
+    #6 collumns, no headers, tab-delimited, depth values positive 
+    Identification Time Easting Northing EllipsoidalHeight Depth
+    
+ex:
+
+    176 75346 480743.303  4439096.477  40.5489  1.296 
 
 #Program parameters
   Sample size: Controls the sample size for the regression. It should 
