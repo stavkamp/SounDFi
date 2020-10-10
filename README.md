@@ -1,2 +1,2 @@
 # SounDFi
-SounDFi - Filter data from a single echo-sounder records
+SounDFi - Filter and detect erroneous data from a single echo-sounder records.
