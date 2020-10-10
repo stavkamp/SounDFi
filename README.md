@@ -36,13 +36,17 @@ ex:
   Sample size: Controls the sample size for the regression. It should 
     be a positive value and greater than the selected polynomial degree 
     plus one.
+    
   Minimum possible measured depth: If a depth measurement is below this 
     positive value, it will be removed before the evaluation process.
+    
   Maximum sampling distance: Sampling of values will stop once the 
     distance between the first and the last value exceeds this maximum 
     distance.
+    
   Polynomial degree: Control the polynomial that will be regressed. The 
     lower the degree, the stricter the filter.
+    
   Validation index threshold: If the index scoring factor is lower than 
     this percentage, then it will be classified as a possibleoutlier. 
     The closer to 100% the stricter the filter.  
